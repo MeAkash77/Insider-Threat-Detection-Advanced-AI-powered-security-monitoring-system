@@ -121,7 +121,7 @@ If not, manually visit the link.
 
 ## 🎥 Video Tutorial
 
-<a href="https://youtu.be/0EE-MvzcNZk" target="_blank">
+<a href="https://drive.google.com/file/d/1Nd2ANnM1OmHuftUEYENQDKFfRkv5Nbt_/view?usp=drivesdk" target="_blank">
   <img src="pictures/flat,1000x1000,075,f.u1.jpg" alt="Watch the video" width="400"/>
 </a>
 
